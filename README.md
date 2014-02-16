@@ -1,7 +1,5 @@
-chrome_web_app
-==============
-
 Example to Create a Chrome Web App from any website .
+==============
 
 Chrome web app gives the native app feels for website. You can create a web app for any website on the Internet.
 
